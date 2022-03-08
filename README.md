@@ -6,4 +6,4 @@
 >
 > 📫 Pour me contacter via [Instagram](https://www.instagram.com/codingcodeasmr/).
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Ceci est l'emblème du fichier](https://myoctocat.com/assets/images/base-octocat.svg)
