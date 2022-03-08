@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hervines
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut, je suis @Hervines !
+- 👀 Je suis intéressé par la programmation.
+- 🌱 J'apprends actuellement le langage Python.
+- 💞️ Pour me contacter en cas de demande : Instagram.
+- 📫 Instagram : https://www.instagram.com/codingcodeasmr/ !
 
 <!---
 Hervines/Hervines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
